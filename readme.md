@@ -8,4 +8,5 @@
 
 * [Математики](mathematicians.md)
 * [Перевод терминов](translation.md)
+* [Неразобранное](misc.md)
 * [Символы LaTeX](latex.md)
