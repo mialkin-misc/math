@@ -33,7 +33,7 @@
 
 | Символ            | LaTeX           | Обозначает  |
 | ----------------- | --------------- | ----------- |
-| $\Rightarrow$    | \Rightarrow     | Влечет      |
+| $\Rightarrow$     | \Rightarrow     | Влечет      |
 | $\Leftrightarrow$ | \Leftrightarrow | Равносильно |
 
 ## Ссылки
